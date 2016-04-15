@@ -1,1 +1,2 @@
-Repo on local first now from online
+Repo on local first
+Please stash the file
